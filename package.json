@@ -186,7 +186,7 @@
     "fulcrum-schema": "^2.1.0",
     "glob": "^7.1.6",
     "inquirer": "^7.3.3",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "minidb": "^0.14.1",
     "mixmatch": "0.0.3",
     "mkdirp": "^1.0.4",
